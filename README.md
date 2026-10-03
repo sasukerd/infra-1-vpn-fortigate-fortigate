@@ -51,6 +51,6 @@ El `2025` y el `0873` de la matrícula quedan en las redes públicas `202.5.0.0/
 
 Enlace del video de la infraestructura 1:
 
-https://
+https://youtu.be/MeZDB0Oo9v4
 
 Reemplaza esa línea por la URL del video cuando lo subas.
