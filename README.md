@@ -1,4 +1,4 @@
-# Infraestructura 1: VPN site-to-site entre dos FortiGate
+<img width="591" height="303" alt="image" src="https://github.com/user-attachments/assets/d5dda803-fea7-4e7c-9b7f-3cb63350c657" /># Infraestructura 1: VPN site-to-site entre dos FortiGate
 
 ## Video
 
@@ -24,6 +24,14 @@ flowchart LR
     UP["Tunel UP\nping responde\nsalto 1: 10.20.25.1"] --> DOWN["Tunel DOWN\nping timeout\nISP sin ruta privada"]
     DOWN --> UP2["Tunel UP otra vez\nping responde"]
 ```
+
+<img width="345" height="349" alt="image" src="https://github.com/user-attachments/assets/32a7ba18-c848-49fa-9f1e-48c018459a3b" />
+<img width="551" height="177" alt="image" src="https://github.com/user-attachments/assets/c0cb77a5-0049-4f76-abd7-aa55166de98d" />
+<img width="591" height="303" alt="image" src="https://github.com/user-attachments/assets/c0243c0f-32b3-4a87-a485-ed056235a61f" />
+<img width="492" height="185" alt="image" src="https://github.com/user-attachments/assets/ed60c0d9-f9ff-41e8-bf05-b7d8647ed9b7" />
+<img width="487" height="278" alt="image" src="https://github.com/user-attachments/assets/0a113378-44e8-45bc-bcc9-aaa17ed19953" />
+<img width="457" height="187" alt="image" src="https://github.com/user-attachments/assets/dc8a14b3-50d7-4502-9f3b-f6182f88c0d2" />
+
 
 ## Objetivo
 
