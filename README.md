@@ -1,5 +1,9 @@
 # Infraestructura 1: VPN site-to-site entre dos FortiGate
 
+## Video
+
+https://youtu.be/MeZDB0Oo9v4
+
 Matricula: **2025-0873**
 
 ## Diagrama
@@ -50,6 +54,4 @@ La VPN no tiene cable propio. Es un tunel IPsec entre `202.5.0.2` y `8.73.0.2`.
 
 Trafico interesante: `10.20.25.0/25` hacia `10.8.73.0/28`.
 
-## Video
 
-https://youtu.be/MeZDB0Oo9v4
